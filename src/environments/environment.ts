@@ -1,4 +1,4 @@
 export const environment = {
-  production: false,
-  baseUrl: 'http://localhost:3000',
+  production: true,
+  baseUrl: 'https://pet-appointment-682f80ee0611.herokuapp.com',
 };
